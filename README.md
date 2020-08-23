@@ -1,10 +1,10 @@
 ### Hi there, I'm [Huynh Van Toan!](https://github.com/ToanMobile) 👋
 
-<a href="live:hvtoan.dev">
+<a href="skype:live:hvtoan.dev?userinfo">
   <img align="left" alt="Huỳnh Văn Toàn | Skype" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" />
 </a>
 <a href="https://www.facebook.com/VanToanIT/">
-  <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" />
+  <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/534px-F_icon.svg.png" />
 </a>
 
 <br />
