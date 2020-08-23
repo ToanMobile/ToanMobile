@@ -1,6 +1,6 @@
 ### Hi there, I'm [Huynh Van Toan!](https://github.com/ToanMobile) 👋
 
-<a href="skype:hvtoan.dev?userinfo">
+<a href="skype:live:hvtoan.dev?userinfo">
   <img align="left" alt="Huỳnh Văn Toàn | Skype" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>
 </a>
 <a href="https://www.facebook.com/VanToanIT/">
