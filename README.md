@@ -1,6 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToanMobile&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ToanMobile&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanMobile)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=ToanMobile)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ToanMobile/ToanMobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
