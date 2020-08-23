@@ -1,13 +1,10 @@
 ### Hi there, I'm [Huynh Van Toan!](https://github.com/ToanMobile) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="live:hvtoan.dev">
+  <img align="left" alt="Huỳnh Văn Toàn | Skype" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" />
 </a>
 <a href="https://www.facebook.com/VanToanIT/">
-  <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" />
 </a>
 
 <br />
