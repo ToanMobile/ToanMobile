@@ -52,12 +52,12 @@ Hi, I'm Huynh Van Toan, a leader mobile android and flutter from Viet Nam.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/ToanMobile/ToanMobile">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanMobile&repo=ToanMobile&theme=radical" />
-</a>    
-<a href="https://github.com/ToanMobile/ToanMobile">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ToanMobile&repo=ToanMobile&theme=radical" />
-</a>
+### Github Stats
+
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ToanMobile">https://profile-summary-for-github.com/user/ToanMobile</a>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=blueberry" alt="ToanMobile"/>
+</p>
+
 
