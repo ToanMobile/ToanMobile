@@ -12,7 +12,7 @@
 Hi, I'm Huynh Van Toan, a leader mobile android and flutter from Viet Nam.
 
 - 🔭 I’m currently working on my project [NetAlo](https://play.google.com/store/apps/details?id=com.netacom.netalo)
-- 🌱 I’m currently learning Flutter and Kotlin.
+- 🌱 I am currently teaching Flutter and Kotlin.
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ToanMobile/ToanMobile)
 - 💬 Ask me about anything [here](https://github.com/ToanMobile/ToanMobile/issues)
 
