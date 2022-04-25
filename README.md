@@ -26,7 +26,7 @@ Hi, I'm Huynh Van Toan, a leader mobile android and flutter from Viet Nam.
 
 ### Skills
 
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![IOS Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=ios&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![IOS Badge](https://img.shields.io/badge/-IOS-fa6b23?style=for-the-badge&labelColor=black&logo=ios&logoColor=fa6b23)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 
 ### Extra Pins
 
