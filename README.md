@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 Hi, I'm **Huynh Van Toan**, a **Fullstack Engineer** from **Viet Nam 🇻🇳**.  
-I have **5+ years of experience** in developing **Mobile SDKs, Android/iOS Apps, and Backend Java systems** — building scalable, secure, and production-ready solutions.
+I have **12+ years of experience** in developing **Mobile SDKs, Android/iOS Apps, and Backend Java systems** — building scalable, secure, and production-ready solutions.
 
 - 🔭 Currently working on **FinOS eKYC SDK**, supporting Android, Flutter, and React Native integration.  
 - 🌱 Teaching **Flutter** and **Android** at **DiA – Học viện Digital**, mentoring new developers to become professionals.  
