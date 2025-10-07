@@ -2,64 +2,87 @@
 <a href="https://www.facebook.com/VanToanIT/">
   <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/534px-F_icon.svg.png" />
 </a>
-<a href="skype:live:hvtoan.dev?chat">
-  <img align="left" alt="Huỳnh Văn Toàn | Skype(live:hvtoan.dev)" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg"/>
-  Skype (live:hvtoan.dev)
-</a>
 <br />
 <br />
 
-Hi, I'm Huynh Van Toan, a Fullstack Engineer from Viet Nam.
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on my project SDK eKYC.
-- 🌱 I am currently teaching Flutter and Android in DiA - Học viện Digital.
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ToanMobile/ToanMobile)
-- 💬 Ask me about anything [here](https://github.com/ToanMobile/ToanMobile/issues)
+Hi, I'm **Huynh Van Toan**, a **Fullstack Engineer** from **Viet Nam 🇻🇳**.  
+I have **5+ years of experience** in developing **Mobile SDKs, Android/iOS Apps, and Backend Java systems** — building scalable, secure, and production-ready solutions.
 
-**Languages and Tools:**  
+- 🔭 Currently working on **FinOS eKYC SDK**, supporting Android, Flutter, and React Native integration.  
+- 🌱 Teaching **Flutter** and **Android** at **DiA – Học viện Digital**, mentoring new developers to become professionals.  
+- ⚙️ Experienced with **system architecture design**, **API development**, and **real-time communication** (MQTT/WebSocket).  
+- 💬 Love discussing **clean architecture**, **multi-module SDK design**, and **mobile-backend synchronization**.  
+- 👯 Open to collaboration on **cross-platform SDKs**, **microservices**, and **FinTech innovations**.  
+- 📫 Reach me: [Facebook](https://www.facebook.com/VanToanIT/) / [Skype](skype:live:hvtoan.dev?chat)
 
+---
+
+## 🧠 Tech Stack
+
+### 💡 Mobile Development
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
+[![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#)
+[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![iOS Badge](https://img.shields.io/badge/-iOS-fa6b23?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+
+### ⚙️ Backend Development
+[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#)
+[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
+[![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
+[![RESTful API Badge](https://img.shields.io/badge/-RESTful%20API-005571?style=for-the-badge&labelColor=black&logo=swagger&logoColor=white)](#)
+[![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&labelColor=black&logo=hivemq&logoColor=yellow)](#)
+
+---
+
+## 🧰 Languages and Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>    
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Skills
+---
 
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#) [![IOS Badge](https://img.shields.io/badge/-IOS-fa6b23?style=for-the-badge&labelColor=black&logo=ios&logoColor=fa6b23)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+## 📦 Featured Projects
 
-### Extra Pins
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=GiaoTrinh&theme=blueberry)](https://github.com/ToanMobile/GiaoTrinh)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=BaseCoreFlutter&theme=blueberry)](https://github.com/ToanMobile/BaseCoreFlutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=BaseCoreKotlin&theme=blueberry)](https://github.com/ToanMobile/BaseCoreKotlin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKAndroid&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKAndroid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKFlutter&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKFlutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKReactNative&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKReactNative)
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=SpringBootTemplate&theme=blueberry)](https://github.com/ToanMobile/SpringBootTemplate)
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ToanMobile/ToanMobile/issues)*
-
+## 📊 Github Stats
 
 <a href="https://github.com/ToanMobile/ToanMobile">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ToanMobile&include_all_commits=true&show_icons=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToanMobile&include_all_commits=true&show_icons=true&theme=radical" alt="ToanMobile's github stats" />
 </a>
 <a href="https://github.com/ToanMobile/ToanMobile">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=radical" />
 </a>
-
-### Github Stats
-
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/ToanMobile">https://profile-summary-for-github.com/user/ToanMobile</a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=blueberry" alt="ToanMobile"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=blueberry" alt="ToanMobile streak stats"/>
 </p>
 
+---
 
+## 🌐 Profile Summary
+
+- 🔎 [GitHub Profile Summary](https://profile-summary-for-github.com/user/ToanMobile)
+
+---
+
+> *“Clean architecture isn’t about frameworks — it’s about discipline.”*  
+> — Huynh Van Toan
