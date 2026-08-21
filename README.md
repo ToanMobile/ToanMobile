@@ -1,88 +1,177 @@
-### Hi there, I'm [Huynh Van Toan!](https://github.com/ToanMobile) 👋
-<a href="https://www.facebook.com/VanToanIT/">
-  <img align="left" alt="Huỳnh Văn Toàn | Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/534px-F_icon.svg.png" />
-</a>
-<br />
-<br />
+<div align="center">
 
-## 👨‍💻 About Me
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24,30&height=220&section=header&text=Huynh%20Van%20Toan&fontSize=42&fontAlignY=38&desc=Senior%20Fullstack%20%26%20Mobile%20SDK%20Architect%20%7C%2012%2B%20Years%20Experience&descAlignY=60&descAlign=50" width="100%" alt="Huynh Van Toan Banner"/>
 
-Hi, I'm **Huynh Van Toan**, a **Fullstack Engineer** from **Viet Nam 🇻🇳**.  
-I have **12+ years of experience** in developing **Mobile SDKs, Android/iOS Apps, and Backend Java systems** — building scalable, secure, and production-ready solutions.
+  <!-- Animated Typing Text -->
+  <a href="https://github.com/ToanMobile">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=🚀+Senior+Fullstack+%26+Mobile+SDK+Architect;📱+12%2B+Years+in+Mobile%2C+FinTech+%26+Backend+Systems;🛡️+FinOS+eKYC+SDK+Architect+(Android%2C+iOS%2C+Flutter%2C+RN);⚙️+Java%2C+Spring+Boot%2C+Microservices+%26+MQTT%2FWebSocket;🚗+Automotive+Smart+IoT+%26+Connected+Car+Solutions;👨‍🏫+Mentor+%26+Trainer+at+DiA+–+Học+viện+Digital" alt="Typing SVG" />
+  </a>
 
-- 🔭 Currently working on **FinOS eKYC SDK**, supporting Android, Flutter, and React Native integration.  
-- 🌱 Teaching **Flutter** and **Android** at **DiA – Học viện Digital**, mentoring new developers to become professionals.  
-- ⚙️ Experienced with **system architecture design**, **API development**, and **real-time communication** (MQTT/WebSocket).  
-- 💬 Love discussing **clean architecture**, **multi-module SDK design**, and **mobile-backend synchronization**.  
-- 👯 Open to collaboration on **cross-platform SDKs**, **microservices**, and **FinTech innovations**.  
-- 📫 Reach me: [Facebook](https://www.facebook.com/VanToanIT/) / [Skype](skype:live:hvtoan.dev?chat)
+  <p align="center">
+    <a href="https://www.facebook.com/VanToanIT/"><img src="https://img.shields.io/badge/Facebook-Huỳnh_Văn_Toàn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+    <a href="skype:live:hvtoan.dev?chat"><img src="https://img.shields.io/badge/Skype-hvtoan.dev-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/></a>
+    <a href="https://github.com/ToanMobile"><img src="https://img.shields.io/badge/GitHub-ToanMobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+    <a href="https://profile-summary-for-github.com/user/ToanMobile"><img src="https://img.shields.io/badge/Location-Vietnam_🇻🇳-ED1C24?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vietnam Badge"/></a>
+  </p>
 
----
-
-## 🧠 Tech Stack
-
-### 💡 Mobile Development
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
-[![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
-[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)](#)
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![iOS Badge](https://img.shields.io/badge/-iOS-fa6b23?style=for-the-badge&labelColor=black&logo=apple&logoColor=white)](#)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
-
-### ⚙️ Backend Development
-[![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#)
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
-[![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#)
-[![RESTful API Badge](https://img.shields.io/badge/-RESTful%20API-005571?style=for-the-badge&labelColor=black&logo=swagger&logoColor=white)](#)
-[![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge&labelColor=black&logo=hivemq&logoColor=yellow)](#)
+</div>
 
 ---
 
-## 🧰 Languages and Tools
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### 👨‍💻 About Me
+
+```yaml
+name: Huỳnh Văn Toàn (Huynh Van Toan)
+role: Senior Fullstack Engineer & Mobile SDK Architect
+experience: 12+ Years
+location: Ho Chi Minh City, Viet Nam 🇻🇳
+focus_areas: [Mobile SDKs, FinTech / eKYC, High-Concurrency Backend, Connected Car & IoT]
+mentorship: Flutter & Android Trainer @ DiA – Học viện Digital
+motto: "Clean architecture isn’t about frameworks — it’s about discipline."
+```
+
+- 🔭 **Current Focus:** Leading & architecting **FinOS eKYC SDK** — empowering seamless, ultra-secure biometric identity verification across **Android, iOS, Flutter, and React Native**.
+- 🚗 **IoT & Automotive:** Engineering real-time telemetry, VHAL system integration, and remote-companion protocols for smart electric vehicles (**Geely EX2**).
+- ⚙️ **Backend & Scalability:** 12+ years building enterprise microservices with **Java & Spring Boot**, low-latency **MQTT / WebSocket** brokers, and distributed data caching.
+- 👨‍🏫 **Mentorship:** Training the next generation of top-notch software engineers in **Flutter & Modern Android Architecture** at **DiA – Học viện Digital**.
+- 💬 **Ask me about:** Clean Architecture, Multi-Module SDK Isolation, High-Performance Mobile Apps, Real-Time Messaging & FinTech Security.
 
 ---
 
-## 📦 Featured Projects
+### 🛠️ Tech Stack & Toolbelt
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=BaseCoreFlutter&theme=blueberry)](https://github.com/ToanMobile/BaseCoreFlutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=BaseCoreKotlin&theme=blueberry)](https://github.com/ToanMobile/BaseCoreKotlin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKAndroid&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKAndroid)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKFlutter&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKFlutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=NetAloSDKReactNative&theme=blueberry)](https://github.com/ToanMobile/NetAloSDKReactNative)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToanMobile&repo=SpringBootTemplate&theme=blueberry)](https://github.com/ToanMobile/SpringBootTemplate)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,android,kotlin,apple,swift,react,java,spring,postgres,redis,docker,git&perline=12" alt="Skill Icons" />
+</div>
 
----
+<br/>
 
-## 📊 Github Stats
-
-<a href="https://github.com/ToanMobile/ToanMobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToanMobile&include_all_commits=true&show_icons=true&theme=radical" alt="ToanMobile's github stats" />
-</a>
-<a href="https://github.com/ToanMobile/ToanMobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=radical" />
-</a>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=blueberry" alt="ToanMobile streak stats"/>
-</p>
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **📱 Mobile & SDKs** | **Flutter**, **Android (Kotlin / Java)**, **iOS (Swift / Objective-C)**, **React Native**, **Kotlin Multiplatform (KMP)**, Jetpack Compose, Coroutines/Flow, Clean Architecture |
+| **⚙️ Backend & APIs** | **Java**, **Spring Boot**, **Microservices**, **PostgreSQL**, **MySQL**, **Redis**, **MQTT (HiveMQ/EMQX)**, **WebSocket**, RESTful APIs, Swagger/OpenAPI |
+| **🚀 DevOps & Cloud** | **Docker**, **Git / GitHub Actions**, Linux, Maven, Gradle, CI/CD Automation, MCP (Model Context Protocol) |
+| **🛡️ Specialized Domains** | **FinTech & eKYC Security**, Multi-Module SDK Packaging, Automotive VHAL & Embedded Android, Real-Time Chat & VoIP Systems |
 
 ---
 
-## 🌐 Profile Summary
+### 📦 Featured Repositories & SDKs
 
-- 🔎 [GitHub Profile Summary](https://profile-summary-for-github.com/user/ToanMobile)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/ToanMobile/BaseCoreFlutter">BaseCoreFlutter</a></h4>
+      <p>Production-ready Flutter starter kit featuring Clean Architecture, Bloc/Cubit state management, auto-routing, and comprehensive network/storage handlers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-4EBA6F?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/ToanMobile/BaseCoreKotlin">BaseCoreKotlin</a></h4>
+      <p>Modern Android base architecture implementing MVVM/MVI, Kotlin Coroutines, Flow, Jetpack components, and multi-module project structure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Jetpack-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/ToanMobile/SpringBootTemplate">SpringBootTemplate</a></h4>
+      <p>Enterprise-grade Spring Boot backend template equipped with JWT authentication, Redis caching, PostgreSQL integration, and Swagger API docs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 <a href="https://github.com/ToanMobile/NetAloSDKAndroid">NetAloSDK Suite</a></h4>
+      <p>High-performance Real-Time Messaging & Calling SDK ecosystem cross-compiled for <b>Android</b>, <b>Flutter</b>, and <b>React Native</b> via WebSockets/WebRTC.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SDK_Design-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebRTC%20%2F%20Socket-0052CC?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/ToanMobile/GeelyEx2">Geely EX2 Connected Car</a></h4>
+      <p>Smart automotive system app (VHAL + CarPropertyManager + Flyme Auto) & TCP/BLE remote companion phone controller for electric vehicles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android_Automotive-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT_%26_VHAL-00599C?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 <a href="https://github.com/ToanMobile/play-store-mcp">Play Store MCP Server</a></h4>
+      <p>Model Context Protocol (MCP) server integration bridge for managing, querying, and automating Google Play Developer Console APIs with AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MCP_Protocol-6E40C9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-> *“Clean architecture isn’t about frameworks — it’s about discipline.”*  
-> — Huynh Van Toan
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/ToanMobile">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToanMobile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ToanMobile">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <p align="center">
+    <a href="https://github.com/ToanMobile">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="GitHub Streak" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 🤝 Get in Touch
+
+<div align="center">
+
+  **Let's build something extraordinary together!**  
+  *Whether you want to discuss a new SDK architecture, high-concurrency backend, FinTech security, or mobile engineering training.*
+
+  <br/>
+
+  <a href="https://www.facebook.com/VanToanIT/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="skype:live:hvtoan.dev?chat">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ToanMobile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://profile-summary-for-github.com/user/ToanMobile">
+    <img src="https://img.shields.io/badge/Profile_Summary-005571?style=for-the-badge&logo=google&logoColor=white" alt="Profile Summary" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24,30&height=100&section=footer" width="100%" alt="Footer Banner"/>
+
+</div>
