@@ -9,8 +9,7 @@
   </a>
 
   <p align="center">
-    <a href="https://www.facebook.com/VanToanIT/"><img src="https://img.shields.io/badge/Facebook-Huynh_Van_Toan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-    <a href="skype:live:hvtoan.dev?chat"><img src="https://img.shields.io/badge/Skype-hvtoan.dev-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/></a>
+    <a href="https://t.me/toanmobile93"><img src="https://img.shields.io/badge/Telegram-toanmobile93-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
     <a href="https://github.com/ToanMobile"><img src="https://img.shields.io/badge/GitHub-ToanMobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
     <a href="https://profile-summary-for-github.com/user/ToanMobile"><img src="https://img.shields.io/badge/Location-Vietnam-ED1C24?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vietnam Badge"/></a>
   </p>
@@ -155,16 +154,12 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
 
   <br/>
 
-  <a href="https://www.facebook.com/VanToanIT/">
-    <img src="https://img.shields.io/badge/Facebook-Huynh_Van_Toan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="skype:live:hvtoan.dev?chat">
-    <img src="https://img.shields.io/badge/Skype-hvtoan.dev-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
+  <a href="https://t.me/toanmobile93">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://github.com/ToanMobile">
-    <img src="https://img.shields.io/badge/GitHub-ToanMobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://profile-summary-for-github.com/user/ToanMobile">
