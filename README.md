@@ -5,14 +5,14 @@
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/ToanMobile">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=🚀+Senior+Fullstack+%26+Mobile+SDK+Architect;📱+12%2B+Years+in+Mobile%2C+FinTech+%26+Backend+Systems;🛡️+FinOS+eKYC+SDK+Architect+(Android%2C+iOS%2C+Flutter%2C+RN);⚙️+Java%2C+Spring+Boot%2C+Microservices+%26+MQTT%2FWebSocket;🚗+Automotive+Smart+IoT+%26+Connected+Car+Solutions;👨‍🏫+Mentor+%26+Trainer+at+DiA+–+Học+viện+Digital" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Senior+Fullstack+%26+Mobile+SDK+Architect;12%2B+Years+in+Mobile%2C+FinTech+%26+Backend;FinOS+eKYC+SDK+Architect+(Android%2C+iOS%2C+Flutter%2C+RN);Java%2C+Spring+Boot%2C+Microservices+%26+MQTT%2FWebSocket;Automotive+Smart+IoT+%26+Connected+Car+Solutions;Mentor+%26+Trainer+at+DiA+Academy" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://www.facebook.com/VanToanIT/"><img src="https://img.shields.io/badge/Facebook-Huỳnh_Văn_Toàn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+    <a href="https://www.facebook.com/VanToanIT/"><img src="https://img.shields.io/badge/Facebook-Huynh_Van_Toan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
     <a href="skype:live:hvtoan.dev?chat"><img src="https://img.shields.io/badge/Skype-hvtoan.dev-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/></a>
     <a href="https://github.com/ToanMobile"><img src="https://img.shields.io/badge/GitHub-ToanMobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-    <a href="https://profile-summary-for-github.com/user/ToanMobile"><img src="https://img.shields.io/badge/Location-Vietnam_🇻🇳-ED1C24?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vietnam Badge"/></a>
+    <a href="https://profile-summary-for-github.com/user/ToanMobile"><img src="https://img.shields.io/badge/Location-Vietnam-ED1C24?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Vietnam Badge"/></a>
   </p>
 
 </div>
@@ -91,8 +91,8 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
       <h4>💬 <a href="https://github.com/ToanMobile/NetAloSDKAndroid">NetAloSDK Suite</a></h4>
       <p>High-performance Real-Time Messaging & Calling SDK ecosystem cross-compiled for <b>Android</b>, <b>Flutter</b>, and <b>React Native</b> via WebSockets/WebRTC.</p>
       <p>
-        <img src="https://img.shields.io/badge/SDK_Design-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/WebRTC%20%2F%20Socket-0052CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/SDK_Architecture-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebRTC_&_WebSocket-0052CC?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -102,7 +102,7 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
       <p>Smart automotive system app (VHAL + CarPropertyManager + Flyme Auto) & TCP/BLE remote companion phone controller for electric vehicles.</p>
       <p>
         <img src="https://img.shields.io/badge/Android_Automotive-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT_%26_VHAL-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/IoT_&_VHAL-00599C?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -124,23 +124,24 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/ToanMobile">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ToanMobile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToanMobile&theme=tokyonight" alt="Profile Details" />
       </td>
       <td>
-        <a href="https://github.com/ToanMobile">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToanMobile&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" alt="Top Languages" />
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToanMobile&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToanMobile&theme=tokyonight" alt="Languages Card" />
       </td>
     </tr>
   </table>
 
-  <p align="center">
-    <a href="https://github.com/ToanMobile">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToanMobile&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="GitHub Streak" />
-    </a>
-  </p>
+  <br/>
+
+  <a href="https://github.com/ToanMobile">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToanMobile&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -155,15 +156,15 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
   <br/>
 
   <a href="https://www.facebook.com/VanToanIT/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Huynh_Van_Toan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
   <a href="skype:live:hvtoan.dev?chat">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
+    <img src="https://img.shields.io/badge/Skype-hvtoan.dev-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
   </a>
   &nbsp;
   <a href="https://github.com/ToanMobile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ToanMobile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://profile-summary-for-github.com/user/ToanMobile">
