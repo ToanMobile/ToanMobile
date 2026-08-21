@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner (Native SVG hosted in repo) -->
+  <!-- Header Banner (Native Vector SVG) -->
   <img src="./assets/banner.svg" width="100%" alt="Huynh Van Toan - Senior Fullstack & Mobile SDK Architect" />
 
   <br/><br/>
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/ToanMobile">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Fullstack+%26+Mobile+SDK+Architect;14%2B+Years+in+Mobile%2C+FinTech+%26+Backend;FinOS+eKYC+SDK+Architect+(Android%2C+iOS%2C+Flutter%2C+RN);Java%2C+Spring+Boot%2C+Microservices+%26+High+Concurrency;Automotive+Smart+IoT+%26+Connected+Car+Solutions;Senior+Trainer+%26+Mentor+at+DiA+Academy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Senior+Fullstack+%26+Mobile+SDK+Architect;14%2B+Years+in+Mobile%2C+FinTech+%26+Backend+Systems;FinOS+eKYC+SDK+Architect+(Flutter%2C+Android%2C+iOS%2C+RN);Java%2C+Spring+Boot%2C+Microservices+%26+High+Concurrency;Automotive+Smart+IoT+%26+Connected+Car+Solutions;Senior+Trainer+%26+Mentor+at+DiA+Academy" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,29 +23,40 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Huỳnh Văn Toàn (Huynh Van Toan)
-role: Senior Fullstack Engineer & Mobile SDK Architect
-experience: 14+ Years
-location: Ho Chi Minh City, Viet Nam 🇻🇳
-focus_areas: [Mobile SDKs, FinTech / eKYC, High-Concurrency Backend, Connected Car & IoT]
-mentorship: Senior Trainer & Mentor @ DiA – Học viện Digital
-motto: "Clean architecture isn’t about frameworks — it’s about discipline."
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile & SDK Architecture</h3>
+      <p><b>14+ Years</b> building production mobile applications & multi-module SDKs across <b>Flutter, Android (Kotlin), iOS (Swift), and React Native / KMP</b> with Clean Architecture and rock-solid modular isolation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ FinTech & Biometric Security</h3>
+      <p>Principal Architect for <b>FinOS eKYC SDK</b> — providing enterprise banking-grade biometric face verification, OCR data extraction, document liveness, and cryptographic tamper protection.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Distributed Backend & Scalability</h3>
+      <p>Designing high-throughput microservices powered by <b>Java & Spring Boot</b>, distributed <b>PostgreSQL/Redis</b> caching, and ultra-low latency <b>MQTT / WebSocket</b> real-time messaging brokers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Connected Car & Smart IoT</h3>
+      <p>System-level engineering for intelligent electric vehicles (<b>Geely EX2</b>): Vehicle HAL (VHAL), CarPropertyManager telemetry, and TCP/BLE remote companion control systems.</p>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **14+ Years of Engineering:** Deep expertise in developing enterprise-grade **Mobile SDKs, Native Android/iOS applications, and Distributed Java Backend Systems**.
-- 🛡️ **FinTech & Biometrics:** Principal architect for **FinOS eKYC SDK** — securing mission-critical identity verification across **Android, iOS, Flutter, and React Native**.
-- 🚗 **IoT & Automotive:** Engineering low-latency VHAL integrations, CarPropertyManager telemetry, and TCP/BLE companion controllers for smart EVs (**Geely EX2**).
-- ⚙️ **High-Concurrency Backend:** Architecting resilient microservices with **Java & Spring Boot**, real-time **MQTT / WebSocket** streams, and distributed Redis caches.
-- 👨‍🏫 **Empowering Developers:** Mentoring and instructing software engineers in **Flutter, Kotlin, and Modern Mobile Architecture** at **DiA – Học viện Digital**.
-- 💬 **Ask me about:** Clean Architecture, Multi-Module SDK Isolation, High-Performance Mobile Apps, Real-Time Messaging & FinTech Security.
+<br/>
+
+> 👨‍🏫 **Trainer & Mentor:** Instructing and mentoring next-generation software engineers in **Modern Android Architecture & Flutter** at **DiA – Học viện Digital**.  
+> 💡 **Core Philosophy:** *"Clean architecture isn’t about frameworks — it’s about discipline."*
 
 ---
 
 ### 🛠️ Tech Stack & Toolbelt
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,android,kotlin,apple,swift,react,java,spring,postgres,redis,docker,git&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,apple,react,ts,js,java,spring,postgres,mysql,redis,docker,git,linux&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -134,8 +145,11 @@ motto: "Clean architecture isn’t about frameworks — it’s about discipline.
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToanMobile&theme=tokyonight" alt="Languages Card" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToanMobile&theme=tokyonight" alt="Commit Languages" />
       </td>
     </tr>
   </table>
